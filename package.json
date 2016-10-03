@@ -1,5 +1,5 @@
 {
-  "name": "Counting Chickens",
+  "name": "counting-chickens",
   "version": "1.0.0",
   "description": "A MEAN app that allows backyard farmers to keep track of eggs layed by their chooks",
   "main": "server.js",
