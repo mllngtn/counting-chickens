@@ -1,7 +1,7 @@
 {
-  "name": "The Chicken Or",
+  "name": "Counting Chickens",
   "version": "1.0.0",
-  "description": "A MEAN app that allows users to keep track of eggs layed by their chooks",
+  "description": "A MEAN app that allows backyard farmers to keep track of eggs layed by their chooks",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
