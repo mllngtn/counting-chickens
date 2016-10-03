@@ -6,9 +6,9 @@ This will be a MEAN app that allows backyard farmers to keep track of eggs laid 
 
 ## What will the functionality be?
 
-1) User can set up an account and log in
-2) User can add as many chickens to their account as they want
-3) User records eggs laid by each of their chickens
+1) User can set up an account and log in<br/>
+2) User can add as many chickens to their account as they want<br/>
+3) User records eggs laid by each of their chickens<br/>
 4) User can view historic lays in the form of simple line graphs / tables
 
 ## What's here so far?
