@@ -31,7 +31,7 @@ angular.module("chickensApp", ['ngRoute'])
                     alert("Error finding users.");
                 });
         }
-        this.createUsers = function(user) {
+        this.createUser = function(user) {
             return $http.post("/users", user).
                 then(function(response) {
                     return response;
